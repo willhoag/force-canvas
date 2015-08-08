@@ -2,7 +2,7 @@
 
 sanity check to get the canvas if input happens to be the context; errors if it can't return a canvas
 
-[![Build Status](https://travis-ci.org/hemanth/force-canvas.svg)](https://travis-ci.org/willhoag/force-canvas)
+[![Build Status](https://travis-ci.org/willhoag/force-canvas.svg)](https://travis-ci.org/willhoag/force-canvas)
 [![npm version](https://badge.fury.io/js/force-canvas.svg)](http://badge.fury.io/js/force-canvas)
 
 ## Installation
