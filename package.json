@@ -1,7 +1,7 @@
 {
   "name": "force-canvas",
   "description": "sanity check to get the canvas if input happens to be the context; errors if it can't return a canvas",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "author": {
     "name": "Will Hoag",
     "email": "dev@willhoag.com",
